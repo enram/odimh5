@@ -3,7 +3,7 @@ from __future__ import annotations
 from datetime import datetime
 from typing import Dict, List
 
-import h5py
+import h5py  # type: ignore
 import pytz
 
 
