@@ -2,6 +2,7 @@
 
 [![.github/workflows/run-tests.yaml](https://github.com/inbo/odim_h5/actions/workflows/run-tests.yaml/badge.svg)](https://github.com/inbo/odim_h5/actions/workflows/run-tests.yaml)
 [![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
+[![PyPI version](https://badge.fury.io/py/odim-h5.svg)](https://badge.fury.io/py/odim-h5)
 
 A simple Python package to access data in [ODIM HDF5](https://www.eumetnet.eu/wp-content/uploads/2019/01/ODIM_H5_v23.pdf) format.
 
