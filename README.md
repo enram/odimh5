@@ -29,7 +29,7 @@ Limitations:
 ## Run tests
 
     $ pytest
-    $ mypy odim_h5
+    $ mypy odimh5
 
 ## Format code
 
@@ -41,18 +41,22 @@ Limitations:
 2) Make sure everything is commited 
 3) Build the package:
 
+```
+$ python3 -m build
+```
 
-    $ python3 -m build
-   
 4) Upload it to PyPI:
-   
 
-    $ python3 -m twine upload dist/*
-   
+```
+$ python3 -m twine upload dist/*
+```
+
 5) Tag it:
    
-
-    $ git tag v0.1.0
-    $ git push origin --tags
+```
+$ git tag v0.1.0
+$ git push origin --tags
+```
+    
 
 
