@@ -1,5 +1,6 @@
 # odimh5
 
+[![PyPI version](https://badge.fury.io/py/odimh5.svg)](https://badge.fury.io/py/odimh5)
 [![.github/workflows/run-tests.yaml](https://github.com/enram/odimh5/actions/workflows/run-tests.yaml/badge.svg)](https://github.com/enram/odimh5/actions/workflows/run-tests.yaml)
 [![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
 
