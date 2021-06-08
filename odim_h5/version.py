@@ -1,1 +1,0 @@
-__version__ = '0.1.0'  # Following https://semver.org/

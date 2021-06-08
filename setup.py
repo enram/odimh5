@@ -1,9 +1,7 @@
 from distutils.core import setup
 
-exec(open('odim_h5/version.py').read())
-
 setup(name='odim_h5',
-      version=__version__,
+      version='0.1.0',  # Following https://semver.org/
       description='A Python package to read ODIM HDF5 files',
       author='Nicolas Noé - INBO',
       author_email='nicolas.noe@inbo.be',
