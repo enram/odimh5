@@ -2,7 +2,7 @@ import os
 
 import pytest
 
-from odim_h5.reader import ODIMReader
+from odimh5.reader import ODIMReader
 
 CURRENT_SCRIPT_DIR = os.path.dirname(__file__)
 
