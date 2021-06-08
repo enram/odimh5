@@ -1,3 +1,4 @@
 # Only dev requirements (running tests, generating doc, ...) should be listed here
 pytest==6.2.4
+flake8==3.9.2
 
