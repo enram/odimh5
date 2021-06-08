@@ -8,7 +8,7 @@ setup(name='odim_h5',
       packages=['odim_h5'],
       python_requires='>3.7.0',
       install_requires=[  # Installation dependencies, let's keep development dependencies in requirements.txt
-          'h5py>=3.2.1',
+          'h5py>=3.1.0',
           'pytz'
       ],
       classifiers=[
