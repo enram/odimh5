@@ -1,5 +1,7 @@
 # odimh5
 
+**This package is no longer maintained. Its functionality is entirely included in [vptstools](https://github.com/enram/vptstools).**
+
 [![PyPI version](https://badge.fury.io/py/odimh5.svg)](https://badge.fury.io/py/odimh5)
 [![.github/workflows/run-tests.yaml](https://github.com/enram/odimh5/actions/workflows/run-tests.yaml/badge.svg)](https://github.com/enram/odimh5/actions/workflows/run-tests.yaml)
 [![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
@@ -13,7 +15,7 @@ Limitations:
 
 # Tutorial
 
-## Install from PyPI
+## Install from [PyPI](https://pypi.org/project/odimh5/)
 
     $ pip install odimh5
 
@@ -53,11 +55,8 @@ $ python3 -m twine upload dist/*
 ```
 
 5) Tag it:
-   
+
 ```
 $ git tag v0.1.0
 $ git push origin --tags
 ```
-    
-
-
